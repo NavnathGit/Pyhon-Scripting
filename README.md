@@ -1,2 +1,2 @@
-# Pyhon-Scripting
+# Python-Scripting
 Python Scripting files
